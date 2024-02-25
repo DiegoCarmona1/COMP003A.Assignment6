@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace COMP003A.Assignment6
 {
+    /// <summary>
+    /// Truck extends the Vehicle class
+    /// </summary>
     internal class Truck
     {
     }
